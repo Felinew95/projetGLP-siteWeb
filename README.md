@@ -1,1 +1,1 @@
-# projetGLP-siteWeb
+# Projet Génie Logiciel Projet - Site Web
